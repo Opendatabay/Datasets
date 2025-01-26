@@ -15,12 +15,6 @@ The Synthetic Fetal Health Dataset is created for educational and research purpo
 - **Mean Value of Short-Term Variability:** Mean value of short-term variability in fetal heart rate.
 - **Percentage of Time with Abnormal Long-Term Variability:** Percentage of time with abnormal long-term variability in fetal heart rate.
 - **Fetal Health:** Fetal health status indicator (e.g., Normal, Suspect, Pathological).
-### Distribution
-![fetal 2.png](https://storage.googleapis.com/opendatabay_public/234f8ba2-8e8c-4d91-a1b6-b65b45b34ffb/5f6c720ddbf9_fetal_2.png)
-
-![fetal 1.png](https://storage.googleapis.com/opendatabay_public/234f8ba2-8e8c-4d91-a1b6-b65b45b34ffb/9423742df713_fetal_1.png)
-
-
 
 ### Usage
 This dataset is ideal for various applications in obstetrics, healthcare, and data science:
