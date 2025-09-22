@@ -1,14 +1,14 @@
-## Open Data Collection
+## Opendatabay Data Collections
 ![Odb long Banner](https://github.com/Opendatabay/Datasets/assets/169787519/c2fc1fcf-7fe2-4d53-84a7-2d1c7b0abe8c)
 
 
 
 
 
-[Opendatabay.com/open-data-repository](https://opendatabay.com/open-data-repository)
+[Opendatabay.com/data](https://opendatabay.com/data)
 
 
-This repository is a comprehensive collection of open data resources from various sources around the world. Here, you'll find links to datasets covering a wide range of topics, all freely accessible and reusable
+This repository is a collection of data resources from various sources around the world. Here, you'll find links to datasets on Opendatabay.com simplifying access to valuable information for analysis, research, and application development.
 
 ### Data Format:
 
@@ -16,18 +16,12 @@ The data within this repository is stored in JSON format. Each data entry follow
 
 ```
 {
-  "id": (number),  // Unique identifier for the data resource
-  "files": (number),  // Number of files associated with the resource
-  "publisher": (string),  // Organization or individual publishing the data
   "name": (string),  // Title or name of the data resource
+  "id": (number),  // Unique identifier for the data resource
+  "publisher": (string),  // Organization or individual publishing the data≥
   "description": (string),  // Detailed description of the data content
   "url": (string),  // Main access URL for the data resource
-  "banner": (string) (optional),  // URL for a banner image representing the data
-  "logo": (string) (optional),  // URL for a logo of the publisher
-  "topic": (string),  // Main topic or category of the data
-  "format": (string) (e.g., "CSV", "JSON"),  // File format of the data
-  "date": (string) (e.g., "dd,MONTH,yyyy"),  // Publication date of the data
-  "license": (string)  // License governing the use of the data
+
 }
 ```
 
@@ -43,17 +37,17 @@ The data sources themselves may have varying licenses. Please refer to the "lice
 
 ### Disclaimer:
 
-While we strive to maintain the accuracy and relevance of this collection, the responsibility for data quality and licensing ultimately lies with the individual publishers.
+While we strive to maintain the accuracy and relevance of this collection, the responsibility for data quality and licensing ultimately lies with the individual publishers and data products.
 
 ### Stay Updated:
 
-Feel free to watch this repository for updates as we continuously add new open data resources!
+Feel free to watch this repository for updates as we continuously add new data resources!
 
 
 
 
 # Links:
-<img width="160" alt="Untitled-17" src="https://github.com/Opendatabay/Datasets/assets/169787519/d01b98ec-bc4b-4302-b402-3829bc9b53d9">
+<img width="160" alt="Categories" src="https://github.com/Opendatabay/Datasets/Categories">
 
 
 
