@@ -47,7 +47,7 @@ Feel free to watch this repository for updates as we continuously add new data r
 
 
 # Links:
-<img width="160" alt="Categories" src="https://github.com/Opendatabay/Datasets/Categories">
+<img width="160" alt="Categories" src="https://github.com/Opendatabay/Datasets/tree/main/Categories">
 
 
 
