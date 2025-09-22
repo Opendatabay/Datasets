@@ -3,8 +3,6 @@
 
 
 
-
-
 [Opendatabay.com/data](https://opendatabay.com/data)
 
 
@@ -17,13 +15,13 @@ The data within this repository is stored in JSON format. Each data entry follow
 ```
 {
   "name": (string),  // Title or name of the data resource
-  "id": (number),  // Unique identifier for the data resource
-  "publisher": (string),  // Organization or individual publishing the data≥
-  "description": (string),  // Detailed description of the data content
   "url": (string),  // Main access URL for the data resource
 
 }
 ```
+example entry:
+- [Synthetic Thyroid Disease Patient Records Dataset](https://www.opendatabay.com/data/synthetic/29d83513-a58a-493f-bd5d-2bd38ef7d2ac)
+
 
 ### Contributing:
 
