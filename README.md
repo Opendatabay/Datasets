@@ -58,7 +58,7 @@ Feel free to watch this repository for updates as we continuously add new open d
 
 
 
-Web: [Opendatabay.com](https://opendatabay.com/)
+Web: [Opendatabay.com](https://www.opendatabay.com/)
 
 Email: Info@opendatabay.com
 
@@ -69,5 +69,4 @@ Email: Info@opendatabay.com
 [Facebook](https://www.facebook.com/opendatabay/) | 
 [Linkedin](https://www.linkedin.com/company/opendatabay/) | 
 [Discord](https://discord.gg/vtZ6mV49Ea) | 
-[Instagram](https://www.instagram.com/opendatabay/) | 
-[Reddit](https://www.reddit.com/r/Opendatabay/)
+[Instagram](https://www.instagram.com/opendatabay/) 
